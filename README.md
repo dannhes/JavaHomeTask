@@ -1,4 +1,4 @@
-All my java home tasks and projects:
+All my java home tasks and projects (in prog-intro and paradigms course on ct itmo M3137:
 1) Implementation of the stick game with multiplayer support
 2) Reversi game with tournament and stats support
 3) Generic parser with support for multiple data types and a large set of operations and error forwarding
