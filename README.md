@@ -10,4 +10,4 @@ All my java home tasks and projects (in prog-intro and paradigms course on ct it
 9) Program based on MNK game: sequential player strategy that checkmates the user in a rook and king vs king situation 
 10) MNK Game with a support tournament with statistics and extra moves
 11) Md to Html parser
-12) Chess Game in progress
+12) Online Notebook (Work with API) in progress
